@@ -26,5 +26,5 @@ You can run ```jupyter lab``` from within the environment with all the required 
 To generate a html report run
 
 ```sh
-jupyter nbconvert --to html etra_challenge_report.ipynb --execute --no-input --template pj
+jupyter nbconvert --to html etra_challenge_report.ipynb --execute --template pj
 ```
