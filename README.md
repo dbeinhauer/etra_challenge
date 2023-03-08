@@ -1,6 +1,6 @@
 # etra_challenge
 
-Data Analysis of the ETRA Dataset.
+Homework to the "Informatics and Coginitive Science 1" course. Data Analysis of the ETRA Dataset.
 
 ## Setup
 
