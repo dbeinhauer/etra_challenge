@@ -1,6 +1,7 @@
 # etra_challenge
 
-Homework to the "Informatics and Coginitive Science 1" course. Data Analysis of the ETRA Dataset.
+Homework to the "Informatics and Coginitive Science 1" course. Data Analysis of the ETRA Dataset. 
+View the render of the report: [etra_challenge-report](https://raw.githack.com/dbeinhauer/etra_challenge/main/etra_challenge_report.html)
 
 ## Setup
 
